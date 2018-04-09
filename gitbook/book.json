@@ -1,0 +1,8 @@
+{
+  "title": "webpack3",
+  "description": "深入浅出 Webpack",
+  "language" : "zh-hans",
+  "plugins": [
+    "highlight"
+  ]
+}
